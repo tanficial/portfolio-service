@@ -39,4 +39,4 @@
 ```
 
 ## 6. 데이터베이스 ERD
-![포트폴리오_erd](https://kdt-gitlab.elice.io/002-part2-project-portfolio/team2/jeongtaeyoon/-/wikis/uploads/7f5aae23a15210dc98b8aa765e1c5ad9/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_erd.png)
+![포트폴리오_erd](https://user-images.githubusercontent.com/77822099/138724538-64ce6aa4-0820-4331-a63a-f5c66b19c0ee.png)
